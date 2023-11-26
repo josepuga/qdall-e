@@ -1,0 +1,5 @@
+*env/
+TODO.txt
+__pycache__
+deploy/
+build/

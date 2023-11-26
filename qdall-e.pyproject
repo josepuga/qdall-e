@@ -1,0 +1,10 @@
+{
+    "files": [
+        "mainwindow.py",
+        "form.ui",
+        "resources.qrc",
+        "__version.py",
+        ".gitignore",
+        "main.py"
+    ]
+}
